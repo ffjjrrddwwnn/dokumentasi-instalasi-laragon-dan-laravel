@@ -1,0 +1,29 @@
+Langkah 1: Unduh Laragon
+- Kunjungi situs resmi Laragon di laragon.org.
+- Pilih versi Laragon yang sesuai dengan kebutuhan Anda (standar atau portable).
+- Klik tombol "Download" untuk memulai unduhan.
+
+
+Langkah 2: Instal Laragon
+- Setelah unduhan selesai, buka file instalasi (.exe) Laragon.
+- Pilih bahasa yang ingin digunakan, lalu klik "OK".
+- Ikuti petunjuk instalasi:- Setujui perjanjian lisensi.
+- Pilih lokasi instalasi (direktori tempat Laragon akan diinstal).
+- Pilih komponen yang ingin diinstal (misalnya, Apache, MySQL, PHP).
+
+- Klik "Install" dan tunggu hingga proses instalasi selesai.
+- Setelah selesai, klik "Finish".
+
+
+Langkah 3: Konfigurasi Laragon
+- Buka Laragon setelah instalasi selesai.
+- Atur pengaturan dasar seperti versi PHP, database, dan server web sesuai kebutuhan Anda.
+- Untuk menguji instalasi, buat proyek web sederhana di direktori root Laragon.
+
+
+Langkah 4: Pengujian
+- Jalankan Laragon dan klik "Start All" untuk memulai semua layanan (server web, database, dll.).
+- Buka browser dan akses http://localhost untuk memastikan Laragon berjalan dengan baik.
+
+
+
