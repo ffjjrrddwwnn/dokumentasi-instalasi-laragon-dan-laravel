@@ -1,0 +1,20 @@
+1. Buka Terminal Laragon
+Klik kanan ikon Laragon di system tray ➜ pilih Terminal
+
+2. Masuk ke Folder www
+cd C:\laragon\www
+
+3. Instalasi Laravel via Composer
+Gunakan perintah berikut (ganti nama-proyekmu sesuai keinginan):
+composer create-project laravel/laravel nama-proyekmu
+Contoh:
+composer create-project laravel/laravel toko-online
+Tunggu proses selesai (akan download Laravel dan dependensinya).
+
+4. Jalankan Proyek Laravel
+Setelah instalasi selesai, masuk ke folder proyek:
+cd nama-proyekmu
+Lalu jalankan built-in server Laravel:
+php artisan serve
+Laravel akan berjalan di:
+http://127.0.0.1:8000
